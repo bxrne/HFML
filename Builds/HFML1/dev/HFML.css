@@ -1,0 +1,75 @@
+/*
+
+HFML1
+version 1
+Hosted on GitHub
+The MIT License (MIT)
+Copyright (c) 2014 Adam Byrne
+
+*/
+
+alt {
+    display: block;
+    cursor: default;
+    color: #000;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Helvetica;
+}
+h-sé {
+    display: block;
+    cursor: default;
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Helvetica;
+}
+h-cúig {
+    display: block;
+    cursor: default;
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Helvetica;
+}
+h-ceathair {
+    display: block;
+    cursor: default;
+    color: #000;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Helvetica;
+}
+h-trí {
+    display: block;
+    cursor: default;
+    color: #000;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: Helvetica;
+}
+h-dó {
+    display: block;
+    cursor: default;
+    color: #000;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: Helvetica;
+}
+h-aon {
+    display: block;
+    cursor: default;
+    color: #000;
+    font-size: 27px;
+    font-weight: 400;
+    font-family: Helvetica;
+}
+ceangal {
+    display: inline;
+    cursor: pointer;
+    color: #00f;
+    text-decoration: underline;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: Helvetica;
+}
