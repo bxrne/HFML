@@ -10,29 +10,29 @@ HFML (Hyper Fáda Markup Language)
 Docs:
 ----
 
->### Teideal: title element '<title>'
->#### '<teideal>My Page</teideal>'
+>### Teideal: title element '''<title>'''
+>#### '''<teideal>My Page</teideal>'''
 
->### Alt: paragraph element '<p>'
->#### '<alt>bla bla</alt>'
+>### Alt: paragraph element '''<p>'''
+>#### '''<alt>bla bla</alt>'''
 
->### Ceangal: a element '<a href="" target="">'
->#### '<ceangal áit="" sórt=""></ceangal>'
+>### Ceangal: a element '''<a href="" target="">'''
+>#### '''<ceangal áit="" sórt=""></ceangal>'''
 
->### h-aon: h1 element '<h1>'
->#### '<h-aon>bla bla</h-aon>'
+>### h-aon: h1 element '''<h1>'''
+>#### '''<h-aon>bla bla</h-aon>'''
 
->### h-dó: h2 element '<h2>'
->#### '<h-dó>bla bla</h-dó>'
+>### h-dó: h2 element '''<h2>'''
+>#### '''<h-dó>bla bla</h-dó>'''
 
->### h-trí: h3 element '<h3>'
->#### '<h-trí>bla bla</h-trí>'
+>### h-trí: h3 element '''<h3>'''
+>#### '''<h-trí>bla bla</h-trí>'''
 
->### h-ceathair: h4 element '<h4>'
->#### '<h-ceathair>bla bla</h-ceathair>'
+>### h-ceathair: h4 element '''<h4>'''
+>#### '''<h-ceathair>bla bla</h-ceathair>'''
 
->### h-cúig: h5 element '<h5>'
->#### '<h-cúig>bla bla</h-cúig>'
+>### h-cúig: h5 element '''<h5>'''
+>#### '''<h-cúig>bla bla</h-cúig>'''
 
->### h-sé: h6 element '<h6>'
->#### '<h-sé>bla bla</h-sé>'
+>### h-sé: h6 element '''<h6>'''
+>#### '''<h-sé>bla bla</h-sé>'''
