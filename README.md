@@ -5,4 +5,6 @@ HFML (Hyper Fáda Macro Language)
 > For Dingle Coderdojo.
 > With Irish HTML tags!
 
+see Wiki for more information.
+
 
