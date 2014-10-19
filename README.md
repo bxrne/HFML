@@ -1,4 +1,4 @@
-HFML (Hyper Fáda Markup Language)
+HFML (Hyper Fáda Macro Language)
 ====
 
 > ### A macro language as Gaelige (in Irish).
