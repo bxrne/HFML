@@ -16,6 +16,7 @@ alt {
     font-weight: 400;
     font-family: Helvetica;
 }
+
 h-sé {
     display: block;
     cursor: default;
@@ -24,6 +25,7 @@ h-sé {
     font-weight: 400;
     font-family: Helvetica;
 }
+
 h-cúig {
     display: block;
     cursor: default;
@@ -32,6 +34,7 @@ h-cúig {
     font-weight: 400;
     font-family: Helvetica;
 }
+
 h-ceathair {
     display: block;
     cursor: default;
@@ -40,6 +43,7 @@ h-ceathair {
     font-weight: 400;
     font-family: Helvetica;
 }
+
 h-trí {
     display: block;
     cursor: default;
@@ -48,6 +52,7 @@ h-trí {
     font-weight: 400;
     font-family: Helvetica;
 }
+
 h-dó {
     display: block;
     cursor: default;
@@ -56,6 +61,7 @@ h-dó {
     font-weight: 400;
     font-family: Helvetica;
 }
+
 h-aon {
     display: block;
     cursor: default;
@@ -64,6 +70,7 @@ h-aon {
     font-weight: 400;
     font-family: Helvetica;
 }
+
 ceangal {
     display: inline;
     cursor: pointer;
