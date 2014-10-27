@@ -14,6 +14,7 @@ Copyright (c) 2014 Adam Byrne
         var e = document.getElementsByTagName("ceangal");
         for (var t = 0; t < e.length; t++) {
             e[t].onclick = new Function('window.open("' + e[t].getAttribute("áit") + '","' + e[t].getAttribute("sórt") + '");')
+          e[t].title = e[t].getAttribute("áit");
         }
 
         // Title
