@@ -22,4 +22,4 @@ Copyright (c) 2014 Adam Byrne
         n.style.display = "none";
         document.title = n.innerText;
     }
-})()
+})();
